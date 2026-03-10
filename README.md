@@ -2,7 +2,7 @@
 
 A lightweight C program (and data header) that displays today's record high and low temperatures for the Fort Collins, Colorado area, based on historical weather data.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Fort_Collins%2C_Colorado_skyline.jpg/800px-Fort_Collins%2C_Colorado_skyline.jpg" alt="Fort Collins skyline" width="600"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Downtown_Fort_Collins_Colorado.jpg"/>
 
 (Example output – actual temperatures depend on today's date)
 
