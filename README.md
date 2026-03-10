@@ -7,9 +7,9 @@ A lightweight C program (and data header) that displays today's record high and 
 (Example output – actual temperatures depend on today's date)
 
 Fort Collins area temperature records
-Today: 2026-03-09Record high:   77 °F   (1972)
+Today: 2026-03-09
+Record high:   77 °F   (1972)
 Record low:   -28 °F   (1932)
-
 
 ## Features
 
